@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 1.2rem;
+  background-color: #03254e;
+  color: white;
+}
+
+button {
+  background-color: #fecee9;
+  border: 0;
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  margin-left: 20px;
+  border-radius: 20px;
+}
+
+button:hover {
+  background-color: #faa4d5;
+}
+
+#container {
+  /* width: [object Object]px; 
+	height: [object Object]px;  */
+  box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
+  background-color: white;
+  width: 50%;
+  height: 75vh;
+  margin: 0 auto;
+  border-radius: 20px;
+  padding: 2em;
+  color: black;
+}
+
+.game-text {
+  padding-bottom: 20px;
+}
